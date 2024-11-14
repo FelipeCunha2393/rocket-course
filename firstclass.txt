@@ -6,4 +6,4 @@ Git add + nome do arquivo -> para subir o arquivo para o Stage
 
 Git rm --cached + nome do arquivo -> para remover alteracoes feitas no arquivo do Stage
 
-Git commit -m "Nome do arquivo" -> oara subir o arquivo no GitHub
+Git commit -m "Nome do arquivo" -> para subir o arquivo no GitHub
