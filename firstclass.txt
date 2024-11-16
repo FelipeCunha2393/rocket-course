@@ -11,3 +11,7 @@ Git commit -m "Nome do arquivo" -> para subir o arquivo no GitHub
 Git log -> para listar os commits feitos no repo
 
 Git checkout -> para navegar nos commits
+
+Git pull -> puxa modificacoes do repositorio para o local
+
+Git push -> envia as modificacoes do repositorio local para o remoto
